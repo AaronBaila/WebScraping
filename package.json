@@ -1,0 +1,21 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "chromium": "^3.0.3",
+    "mongodb": "^5.2.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.4.1",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  },
+  "type": "module"
+}
