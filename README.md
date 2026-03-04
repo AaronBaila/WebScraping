@@ -3,6 +3,7 @@ Este proyecto es un web scraping que obtiene todos los productos de la web de Me
 
 # Importante:
 El archivo a ejecutar es scraper2.js.
+<br>
 Puede que este desactualizado y por ende no funcione correctamente debido a cambios en la web de Mercadona.
 
 # ¿ Que es Web scraping ?
